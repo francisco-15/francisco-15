@@ -1,56 +1,66 @@
-<div align="center">
-
-# ¡Hola! 👋 Soy Francisco Latan
-
-### **🚀 Desarrollador Full Stack en formación | Especialización en Back-End**
-💡 Apasionado por crear soluciones tecnológicas robustas y aprender constantemente
-
-</div>
+# ¡Hola! Soy Francisco Latan  
+**Desarrollador Full Stack en formación | Enfocado en Back-End con Python**  
+Apasionado por crear soluciones tecnológicas prácticas y escalables. Aprendizaje constante con enfoque en calidad y eficiencia.  
 
 ---
 
-## 🛠️ Tecnologías y Habilidades
+### 🛠 Tecnologías y Habilidades  
+**Dominio Principal**  
+`Python` `JSON` `Streamlit` `Git`  
 
-### **Dominio principal**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**En Aprendizaje Activo**  
+`Django` `SQL` `APIs RESTful` `WordPress` `Diseño de Bases de Datos`  
 
-### **En aprendizaje activo**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Meta Full Stack:** Construyo bases sólidas para proyectos integrales, aunque mi corazón 💙 late fuerte por el **Back-End**.
+**Meta Full Stack:**  
+Construyo proyectos integrales priorizando lógica sólida, aunque mi corazón ❤️ late fuerte por el Back-End.  
 
 ---
 
-## 📌 Enfoque Actual
-
+### 📌 Enfoque Actual  
 | **Área**       | **Detalle**                                                                 |
 |----------------|-----------------------------------------------------------------------------|
-| 🐍 Django       | Desarrollo de APIs RESTful y arquitecturas escalables                      |
-| 🗃️ SQL         | Optimización de consultas y diseño de bases de datos relacionales          |
-| ⚡ Streamlit    | Prototipado rápido de interfaces para MVP                                  |
-| 🌐 WordPress   | Integración con tecnologías modernas y desarrollo de themes personalizados |
+| **Python**     | Automatización, manipulación de datos y desarrollo de herramientas CLI.     |
+| **Streamlit**  | Prototipado rápido de interfaces para MVP con integración de backend.       |
+| **JSON**       | Manejo de archivos para persistencia de datos en aplicaciones locales.      |
+| **Django**     | Primeros pasos en desarrollo de APIs y arquitecturas escalables (en curso). |  
 
 ---
 
-## 📂 Proyectos Destacados
+### 🚀 Proyectos Destacados  
+#### **FlashCards Master: Aprendizaje de Inglés Interactivo**  
+**Descripción:** Aplicación web para crear tarjetas didácticas con soporte multimedia, diseñada para facilitar el aprendizaje de idiomas mediante repetición espaciada.  
 
-🔨 **En progreso** - **Flash Cards Interactivas para Idiomas**  
-_Aplicación web para aprendizaje de idiomas usando spaced repetition system (SRS)_
+**Características Principales:**  
+- 📝 **Agregar palabras:** Ingreso de palabras en inglés con fonética y pronunciación (archivos de sonido integrados).  
+- 🏷️ **Clasificación gramatical:** Etiquetado por categorías (verbo, sustantivo, adjetivo, etc.).  
+- 📚 **Significados múltiples:** Hasta 5 definiciones por palabra, con ejemplos contextuales.  
+- 🖼️ **Soporte multimedia:** Añade imágenes asociadas y sonidos de pronunciación desde la interfaz.  
+- 💾 **Persistencia de datos:** Guardado y carga de tarjetas en archivos JSON con rutas personalizadas.  
+- 🎨 **Interfaz intuitiva:** Desarrollada con Streamlit para una experiencia de usuario fluida.  
+
+**Tecnologías:** `Python` `Streamlit` `JSON` `Pillow (imágenes)` `SimpleAudio`  
+
+**Objetivos Logrados:**  
+- Mejorar habilidades en manipulación de archivos y estructuras de datos con Python.  
+- Implementar funcionalidades UX/UI prácticas para MVP.  
+- Crear una herramienta open-source útil para comunidades de aprendizaje.  
 
 ---
 
-## 📬 Contacto
+### 📚 Aprendiendo Actualmente  
+- **Django:** Desarrollo de APIs RESTful y autenticación de usuarios.  
+- **SQL:** Diseño de bases de datos relacionales y optimización de consultas.  
+- **WordPress:** Fundamentos de desarrollo de themes y gestión de contenidos (próximamente).  
+- **Buenas prácticas:** Clean Code y arquitecturas modulares.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-latan-pinto-37a772349)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscolatan9@gmail.com)
+---
 
-<div align="center">
-  
-_"La excelencia es un arte ganado mediante el entrenamiento y el hábito"_ - Aristóteles
-  
-</div>
+### 📫 Contacto  
+**Correo:** [franciscolatan9@gmail.com](mailto:franciscolatan9@gmail.com)  
+**LinkedIn:** [linkedin.com/in/francisco-latan-pinto-37a772349](https://www.linkedin.com/in/francisco-latan-pinto-37a772349)  
+**GitHub:** [github.com/flatan-flashcards](https://github.com/flatan-flashcards)  
+**Portafolio:** *En desarrollo (próximamente...)*  
+
+*"La excelencia no es un acto, sino un hábito. Trabajo cada día para convertirme en la mejor versión de mi código."*  
+
+--- 
