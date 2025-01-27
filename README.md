@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 ¡Hola! Soy **Francisco Latan**  
+💻 **Programador Full Stack en formación** | Enfoque en 🎯 **Back-End**  
+🚀 Apasionado por aprender tecnologías nuevas y crear soluciones robustas.
 
-<!--
-**francisco-15/francisco-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías y Habilidades  
+- **Dominio:**  
+  🐧 Linux | 🐍 Python | 📦 Git  
+- **En aprendizaje activo:**  
+  🔗 **Back-End:** SQL | 🎸 Django  
+  ⚡ **Herramientas:** Streamlit (prototipado rápido)  
+  🌐 **Despliegue y CMS:** WordPress  
+- **Meta Full Stack:** Construyo bases sólidas para proyectos integrales, aunque mi corazón late por el 🖥️ **back-end**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Enfoque actual  
+- 🎸 Django: APIs robustas y arquitectura escalable  
+- 🗃️ SQL: Consultas eficientes y diseño de bases de datos  
+- ⚡ Streamlit: Creación rápida de interfaces  
+- 🌐 WordPress: Integración con desarrollo moderno  
+
+---
+
+### 📫 ¡Conectemos!  
+🔗 [LinkedIn](https://www.linkedin.com/in/francisco-latan-pinto-37a772349) | 📧 franciscolatan9@gmail.com
