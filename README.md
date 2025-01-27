@@ -5,11 +5,17 @@ Apasionado por crear soluciones tecnológicas prácticas y escalables. Aprendiza
 ---
 
 ### 📜 Certificaciones  
-[![Python Avanzado: POO](https://img.shields.io/badge/Certificación-Python_Avanzado:POO-3670A0?style=flat)](https://example.com/enlace-al-certificado)  
-*Conquer Blocks* | Enero 2025  
+[![Python Backend: POO](https://img.shields.io/badge/Certificación-Python_Backend:POO-3670A0?style=flat)](https://github.com/tu-usuario/tu-repositorio/raw/main/franciscolatan9@gmail.com-Python-Avanzado-Evaluacion-POO-Python-Avanzado-POO-ConquerBlocks.pdf)  
+*Conquer Blocks* | Enero 2024  
 
-- **Temas cubiertos:** Programación Orientada a Objetos (POO), diseño de clases, herencia, polimorfismo.  
-- **Habilidades validadas:** Resolución de problemas complejos usando paradigmas de POO, arquitecturas escalables en Python.  
+- **Enfoque Back-End:**  
+  - Diseño de sistemas modulares y arquitecturas escalables para APIs (Django).  
+  - Implementación de lógica de negocio robusta aplicando principios de POO.  
+  - Gestión segura de datos con encapsulamiento y herencia.  
+- **Técnicas validadas:**  
+  - Modelado de clases para bases de datos relacionales.  
+  - Polimorfismo en la integración de servicios externos.  
+  - Optimización de operaciones críticas con métodos privados.  
 
 ---
 
@@ -59,11 +65,12 @@ Construyo proyectos integrales priorizando lógica sólida, aunque mi corazón �
 - **SQL:** Diseño de bases de datos relacionales y optimización de consultas.  
 - **WordPress:** Fundamentos de desarrollo de themes y gestión de contenidos (próximamente).  
 - **Buenas prácticas:** Clean Code y arquitecturas modulares.  
+
 ---
 
-### 📫 Contacto  
-**Correo:** [franciscolatan9@gmail.com](mailto:franciscolatan9@gmail.com)  
-**LinkedIn:** [linkedin.com/in/francisco-latan-pinto-37a772349](https://www.linkedin.com/in/francisco-latan-pinto-37a772349)  
-**Portafolio:** *En desarrollo (próximamente...)*  
+### 📬 Contacto  
+**Correo:** franciscolatan9@gmail.com  
+**LinkedIn:** [linkedin.com/in/francisco-latan-pinto-374772349](https://www.linkedin.com/in/francisco-latan-pinto-374772349)  
+**Portafolio:** En desarrollo (próximamente...)  
 
-*"La excelencia no es un acto, sino un hábito. Trabajo cada día para convertirme en la mejor versión de mi código."*  
+> *"La excelencia no es un acto, sino un hábito. Trabajo cada día para convertirme en la mejor versión de mi código."* 🚀  
