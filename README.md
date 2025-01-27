@@ -4,6 +4,15 @@ Apasionado por crear soluciones tecnológicas prácticas y escalables. Aprendiza
 
 ---
 
+### 📜 Certificaciones  
+[![Python Avanzado: POO](https://img.shields.io/badge/Certificación-Python_Avanzado:POO-3670A0?style=flat)](https://example.com/enlace-al-certificado)  
+*Conquer Blocks* | Enero 2025  
+
+- **Temas cubiertos:** Programación Orientada a Objetos (POO), diseño de clases, herencia, polimorfismo.  
+- **Habilidades validadas:** Resolución de problemas complejos usando paradigmas de POO, arquitecturas escalables en Python.  
+
+---
+
 ### 🛠 Tecnologías y Habilidades  
 **Dominio Principal**  
 `Python` `JSON` `Git`  
@@ -50,7 +59,6 @@ Construyo proyectos integrales priorizando lógica sólida, aunque mi corazón �
 - **SQL:** Diseño de bases de datos relacionales y optimización de consultas.  
 - **WordPress:** Fundamentos de desarrollo de themes y gestión de contenidos (próximamente).  
 - **Buenas prácticas:** Clean Code y arquitecturas modulares.  
-
 ---
 
 ### 📫 Contacto  
