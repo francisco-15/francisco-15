@@ -1,6 +1,9 @@
-👋 ¡Hola! Soy **Francisco Latan**  
-💻 **Programador Full Stack en formación** | Enfoque en 🎯 **Back-End**  
-🚀 Apasionado por aprender tecnologías nuevas y crear soluciones robustas.
+<div style="text-align: center;">
+<h1>¡Hola! Soy <strong>Francisco Latan</strong></h1>
+
+<h3>💻 <strong>Programador Full Stack en formación</strong> | Enfoque en 🎯 <strong>Back-End</strong></h3>
+<h3>🚀 Apasionado por aprender tecnologías nuevas y crear soluciones robustas.</h3>
+</div>
 
 ---
 
