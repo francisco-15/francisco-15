@@ -1,76 +1,76 @@
-# ¡Hola! Soy Francisco Latan  
-**Desarrollador Full Stack en formación | Enfocado en Back-End con Python**  
-Apasionado por crear soluciones tecnológicas prácticas y escalables. Aprendizaje constante con enfoque en calidad y eficiencia.  
+# Hello! I'm Francisco Latan  
+**Full Stack Developer in Training | Focused on Back-End with Python**  
+Passionate about creating practical and scalable technological solutions. Constant learning with a focus on quality and efficiency.  
 
 ---
 
-### 📜 Certificaciones  
-[![Python Backend: POO](https://img.shields.io/badge/Certificación-Python_Backend:POO-3670A0?style=flat)](https://drive.google.com/file/d/1gxaF4QSK5wn72K5EstG8NI5HftKlEiDE/view?usp=sharing)  
-*Conquer Blocks* | Enero 2024  
+### 📜 Certifications  
+[![Python Backend: OOP](https://img.shields.io/badge/Certification-Python_Backend:OOP-3670A0?style=flat)](https://drive.google.com/file/d/1gxaF4QSK5wn72K5EstG8NI5HftKlEiDE/view?usp=sharing)  
+*Conquer Blocks* | January 2024  
 
-- **Enfoque Back-End:**  
-  - Diseño de sistemas modulares y arquitecturas escalables para APIs (Django).  
-  - Implementación de lógica de negocio robusta aplicando principios de POO.  
-  - Gestión segura de datos con encapsulamiento y herencia.  
-- **Técnicas validadas:**  
-  - Modelado de clases para bases de datos relacionales.  
-  - Polimorfismo en la integración de servicios externos.  
-  - Optimización de operaciones críticas con métodos privados.  
+- **Back-End Focus:**  
+  - Design of modular systems and scalable architectures for APIs (Django).  
+  - Implementation of robust business logic applying OOP principles.  
+  - Secure data management with encapsulation and inheritance.  
+- **Validated Techniques:**  
+  - Class modeling for relational databases.  
+  - Polymorphism in external service integration.  
+  - Optimization of critical operations with private methods.  
 
 ---
 
-### 🛠 Tecnologías y Habilidades  
-**Dominio Principal**  
+### 🛠 Technologies and Skills  
+**Main Mastery**  
 `Python` `JSON` `Git`  
 
-**En Aprendizaje Activo**  
-`Django` `SQL` `APIs RESTful` `WordPress` `Diseño de Bases de Datos`  
+**In Active Learning**  
+`Django` `SQL` `RESTful APIs` `WordPress` `Database Design`  
 
-**Meta Full Stack:**  
-Construyo proyectos integrales priorizando lógica sólida, aunque mi corazón ❤️ late fuerte por el Back-End.  
+**Full Stack Goal:**  
+I build comprehensive projects prioritizing solid logic, though my heart ❤️ beats strong for Back-End.  
 
 ---
 
-### 📌 Enfoque Actual  
-| **Área**       | **Detalle**                                                                 |
+### 📌 Current Focus  
+| **Area**       | **Detail**                                                                 |
 |----------------|-----------------------------------------------------------------------------|
-| **Python**     | Automatización, manipulación de datos y desarrollo de herramientas CLI.     |
-| **JSON**       | Manejo de archivos para persistencia de datos en aplicaciones locales.      |
-| **Django**     | Primeros pasos en desarrollo de APIs y arquitecturas escalables (en curso). |  
+| **Python**     | Automation, data manipulation, and CLI tool development.                   |
+| **JSON**       | File handling for data persistence in local applications.                  |
+| **Django**     | First steps in API development and scalable architectures (in progress).   |  
 
 ---
 
-### 🚀 Proyectos Destacados  
-#### **FlashCards Master: Aprendizaje de Inglés Interactivo**  
-**Descripción:** Aplicación de escritorio para crear tarjetas didácticas con soporte multimedia, diseñada para facilitar el aprendizaje de idiomas mediante repetición espaciada.  
+### 🚀 Highlighted Projects  
+#### **FlashCards Master: Interactive English Learning**  
+**Description:** Desktop application to create multimedia flashcards, designed to facilitate language learning through spaced repetition.  
 
-**Características Principales:**  
-- 📝 **Agregar palabras:** Ingreso de palabras en inglés con fonética y pronunciación (generación de audio con pyttsx3).  
-- 🏷️ **Clasificación gramatical:** Etiquetado por categorías (verbo, sustantivo, adjetivo, etc.).  
-- 📚 **Significados múltiples:** Hasta 5 definiciones por palabra, con ejemplos contextuales.  
-- 🔊 **Soporte de audio:** Conversión y manipulación de archivos de sonido usando Pydub.  
-- 💾 **Persistencia de datos:** Guardado y carga de tarjetas en archivos JSON con rutas personalizadas.  
+**Key Features:**  
+- 📝 **Add words:** Input English words with phonetics and pronunciation (audio generation via pyttsx3).  
+- 🏷️ **Grammatical classification:** Tagging by categories (verb, noun, adjective, etc.).  
+- 📚 **Multiple meanings:** Up to 5 definitions per word, with contextual examples.  
+- 🔊 **Audio support:** Audio file conversion and manipulation using Pydub.  
+- 💾 **Data persistence:** Save and load flashcards in JSON files with custom paths.  
 
-**Tecnologías:** `Python` `JSON` `pyttsx3` `Pydub` `Tkinter`  
+**Technologies:** `Python` `JSON` `pyttsx3` `Pydub` `Tkinter`  
 
-**Objetivos Logrados:**  
-- Mejorar habilidades en manipulación de archivos y estructuras de datos con Python.  
-- Implementar generación de audio programática para apoyo en el aprendizaje.  
-- Crear una herramienta open-source útil para comunidades de aprendizaje.  
-
----
-
-### 📚 Aprendiendo Actualmente  
-- **Django:** Desarrollo de APIs RESTful y autenticación de usuarios.  
-- **SQL:** Diseño de bases de datos relacionales y optimización de consultas.  
-- **WordPress:** Fundamentos de desarrollo de themes y gestión de contenidos (próximamente).  
-- **Buenas prácticas:** Clean Code y arquitecturas modulares.  
+**Achieved Goals:**  
+- Improved file handling and data structure skills with Python.  
+- Implemented programmatic audio generation for learning support.  
+- Created an open-source tool useful for learning communities.  
 
 ---
 
-### 📬 Contacto  
-**Correo:** franciscolatan9@gmail.com  
+### 📚 Currently Learning  
+- **Django:** RESTful API development and user authentication.  
+- **SQL:** Relational database design and query optimization.  
+- **WordPress:** Theme development fundamentals and content management (coming soon).  
+- **Best practices:** Clean Code and modular architectures.  
+
+---
+
+### 📬 Contact  
+**Email:** franciscolatan9@gmail.com  
 **LinkedIn:** [linkedin.com/in/francisco-latan-pinto-374772349](https://www.linkedin.com/in/francisco-latan-pinto-374772349)  
-**Portafolio:** En desarrollo (próximamente...)  
+**Portfolio:** In development (coming soon...)  
 
-> *"La excelencia no es un acto, sino un hábito. Trabajo cada día para convertirme en la mejor versión de mi código."* 🚀 
+> *"Excellence is not an act, but a habit. I work every day to become the best version of my code."* 🚀 
