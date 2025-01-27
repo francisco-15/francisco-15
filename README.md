@@ -5,7 +5,7 @@ Apasionado por crear soluciones tecnológicas prácticas y escalables. Aprendiza
 ---
 
 ### 📜 Certificaciones  
-[![Python Backend: POO](https://img.shields.io/badge/Certificación-Python_Backend:POO-3670A0?style=flat)](https://drive.google.com/uc?export=download&id=1gxaF4QSK5wn72K5EstG8NI5HftKlEiDE)  
+[![Python Backend: POO](https://img.shields.io/badge/Certificación-Python_Backend:POO-3670A0?style=flat)](https://drive.google.com/file/d/1gxaF4QSK5wn72K5EstG8NI5HftKlEiDE/view?usp=sharing)  
 *Conquer Blocks* | Enero 2024  
 
 - **Enfoque Back-End:**  
@@ -73,4 +73,4 @@ Construyo proyectos integrales priorizando lógica sólida, aunque mi corazón �
 **LinkedIn:** [linkedin.com/in/francisco-latan-pinto-374772349](https://www.linkedin.com/in/francisco-latan-pinto-374772349)  
 **Portafolio:** En desarrollo (próximamente...)  
 
-> *"La excelencia no es un acto, sino un hábito. Trabajo cada día para convertirme en la mejor versión de mi código."* 🚀  
+> *"La excelencia no es un acto, sino un hábito. Trabajo cada día para convertirme en la mejor versión de mi código."* 🚀 
