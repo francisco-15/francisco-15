@@ -5,7 +5,7 @@ Apasionado por crear soluciones tecnológicas prácticas y escalables. Aprendiza
 ---
 
 ### 📜 Certificaciones  
-[![Python Backend: POO](https://img.shields.io/badge/Certificación-Python_Backend:POO-3670A0?style=flat)](https://github.com/tu-usuario/tu-repositorio/raw/main/franciscolatan9@gmail.com-Python-Avanzado-Evaluacion-POO-Python-Avanzado-POO-ConquerBlocks.pdf)  
+[![Python Backend: POO](https://img.shields.io/badge/Certificación-Python_Backend:POO-3670A0?style=flat)](https://drive.google.com/uc?export=download&id=1gxaF4QSK5wn72K5EstG8NI5HftKlEiDE)  
 *Conquer Blocks* | Enero 2024  
 
 - **Enfoque Back-End:**  
