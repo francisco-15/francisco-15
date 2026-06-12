@@ -36,7 +36,8 @@
 
 ---
 
-### 📜 Certifications & Continuous Growth
-* **Python Backend: OOP** — *Conquer Blocks* (Validated techniques in class modeling, encapsulation, and service integration).
+### 📜 Education & Certifications
+* **Associate Degree in Applied Technology (In Progress)** — *BYU-Pathway Worldwide* (Formalizing technical expertise, systems management, and analytical frameworks through distance learning).
+* **[Python Backend: OOP](https://drive.google.com/file/d/1gxaF4QSK5wn72K5EstG8NI5HftKlEiDE/view?usp=sharing)** — *Conquer Blocks* (Validated techniques in class modeling, encapsulation, and service integration).
 * **Advanced Language Proficiency & Interview Prep** — *EnglishConnect 3* (In progress).
 * **Continuous Learning:** Advanced SQL query optimization, robust architectural clean code patterns, and scalable data warehousing.
