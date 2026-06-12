@@ -1,76 +1,42 @@
-# Hello! I'm Francisco Latan  
-**Full Stack Developer in Training | Focused on Back-End with Python**  
-Passionate about creating practical and scalable technological solutions. Constant learning with a focus on quality and efficiency.  
+# Hello! I'm Francisco Latan 👋  
+**Data Analyst | Focused on Backend, Data Engineering & Business Analytics** Passionate about transforming raw industrial and operational data into scalable, high-impact business solutions. I bridge the gap between robust backend logic, cloud infrastructure, and strategic decision-making.
 
 ---
 
-### 📜 Certifications  
-[![Python Backend: OOP](https://img.shields.io/badge/Certification-Python_Backend:OOP-3670A0?style=flat)](https://drive.google.com/file/d/1gxaF4QSK5wn72K5EstG8NI5HftKlEiDE/view?usp=sharing)  
-*Conquer Blocks* | January 2024  
+### 🛠️ Technologies and Core Skills  
+**Data Analytics & Engineering** `Python` `SQL (MySQL)` `Pandas` `NumPy` `Data Cleaning` `Batch Processing`
 
-- **Back-End Focus:**  
-  - Design of modular systems and scalable architectures for APIs (Django).  
-  - Implementation of robust business logic applying OOP principles.  
-  - Secure data management with encapsulation and inheritance.  
-- **Validated Techniques:**  
-  - Class modeling for relational databases.  
-  - Polymorphism in external service integration.  
-  - Optimization of critical operations with private methods.  
+**Backend & Cloud Infrastructure** `Aiven Cloud` `Database Design (Relational Modeling)` `SQLAlchemy` `RESTful APIs (Groq API)` `Git & GitHub`
+
+**Data Visualization & Deployment** `Streamlit` `Streamlit Cloud` `Matplotlib` `Seaborn`
 
 ---
 
-### 🛠 Technologies and Skills  
-**Main Mastery**  
-`Python` `JSON` `Git`  
-
-**In Active Learning**  
-`Django` `SQL` `RESTful APIs` `WordPress` `Database Design`  
-
-**Full Stack Goal:**  
-I build comprehensive projects prioritizing solid logic, though my heart ❤️ beats strong for Back-End.  
+### 📌 Current Focus & Strengths
+| **Area** | **Detail** |
+|---|---|
+| **Data Analytics** | Specialized in translating technical operational logs into financial and business KPIs (e.g., Pareto/ABC analysis, Dead Stock optimization). |
+| **Data Engineering & Backend** | Building automated pipelines, managing secure cloud database migrations, and handling server-side optimization. |
+| **AI Integration** | Implementing batch processing pipelines leveraging cutting-edge LLM APIs (like Groq) for text enrichment. |
 
 ---
 
-### 📌 Current Focus  
-| **Area**       | **Detail**                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| **Python**     | Automation, data manipulation, and CLI tool development.                   |
-| **JSON**       | File handling for data persistence in local applications.                  |
-| **Django**     | First steps in API development and scalable architectures (in progress).   |  
+### 🚀 Highlighted Project & Portfolio
+
+#### **MRP Inventory Analytics Dashboard 📊📦**
+**Description:** A fully deployed, bilingual (English/Spanish) cloud-based web application designed to audit industrial warehouse logs, identify critical traceability gaps, and mitigate financial losses from stagnant inventory.
+
+* **Key Features:**
+  * 🎯 **Pareto Analysis:** Automated ABC classification isolating Class A materials (driving 79.32% of total inventory value).
+  * 💰 **Financial Impact Metrics:** Translates operational data rows into real-time USD risk indicators for Dead Stock.
+  * 🧮 **Batch Processing with Groq:** Implemented a high-performance data enrichment pipeline using the Groq API inside Google Colab.
+  * ☁️ **Cloud Database Architecture:** Scaled from a local environment to **Aiven Cloud (MySQL)**, overcoming complex server-side privilege challenges (Error 1227 via custom export pipelines).
+* **Technologies:** `Python`, `MySQL`, `Aiven Cloud`, `Streamlit`, `Pandas`, `SQLAlchemy`, `Groq API`.
+* **Links:** [Live Dashboard](https://mrp-control-analytics.streamlit.app/) | [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1_kauPu9APz_9DaEF3KV2am5usiBq6gWY?usp=sharing)
 
 ---
 
-### 🚀 Highlighted Projects  
-#### **FlashCards Master: Interactive English Learning**  
-**Description:** Desktop application to create multimedia flashcards, designed to facilitate language learning through spaced repetition.  
-
-**Key Features:**  
-- 📝 **Add words:** Input English words with phonetics and pronunciation (audio generation via pyttsx3).  
-- 🏷️ **Grammatical classification:** Tagging by categories (verb, noun, adjective, etc.).  
-- 📚 **Multiple meanings:** Up to 5 definitions per word, with contextual examples.  
-- 🔊 **Audio support:** Audio file conversion and manipulation using Pydub.  
-- 💾 **Data persistence:** Save and load flashcards in JSON files with custom paths.  
-
-**Technologies:** `Python` `JSON` `pyttsx3` `Pydub` `Tkinter`  
-
-**Achieved Goals:**  
-- Improved file handling and data structure skills with Python.  
-- Implemented programmatic audio generation for learning support.  
-- Created an open-source tool useful for learning communities.  
-
----
-
-### 📚 Currently Learning  
-- **Django:** RESTful API development and user authentication.  
-- **SQL:** Relational database design and query optimization.  
-- **WordPress:** Theme development fundamentals and content management (coming soon).  
-- **Best practices:** Clean Code and modular architectures.  
-
----
-
-### 📬 Contact  
-**Email:** franciscolatan9@gmail.com  
-**LinkedIn:** [linkedin.com/in/francisco-latan-pinto-374772349](https://www.linkedin.com/in/francisco-latan-pinto-374772349)  
-**Portfolio:** In development (coming soon...)  
-
-> *"Excellence is not an act, but a habit. I work every day to become the best version of my code."* 🚀 
+### 📜 Certifications & Continuous Growth
+* **Python Backend: OOP** — *Conquer Blocks* (Validated techniques in class modeling, encapsulation, and service integration).
+* **Advanced Language Proficiency & Interview Prep** — *EnglishConnect 3* (In progress).
+* **Continuous Learning:** Advanced SQL query optimization, robust architectural clean code patterns, and scalable data warehousing.
